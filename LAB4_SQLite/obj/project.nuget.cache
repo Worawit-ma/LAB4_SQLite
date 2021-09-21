@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "LMFQ0FKcLW+PG09WXAgW1SgKjaggp45B10zsENYDyfg94Tf7q62T0Z3MahrPumcPHtnbS6qfZS7flLchq7NDUA==",
+  "success": true,
+  "projectFilePath": "D:\\000)Learning\\002)BornToDev\\001)Wepapp\\LAB4_SQLite\\LAB4_SQLite\\LAB4_SQLite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Worawit\\.nuget\\packages\\microsoft.data.sqlite\\5.0.10\\microsoft.data.sqlite.5.0.10.nupkg.sha512",
+    "C:\\Users\\Worawit\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.10\\microsoft.data.sqlite.core.5.0.10.nupkg.sha512",
+    "C:\\Users\\Worawit\\.nuget\\packages\\microsoft.netcore.universalwindowsplatform\\6.2.12\\microsoft.netcore.universalwindowsplatform.6.2.12.nupkg.sha512",
+    "C:\\Users\\Worawit\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.4\\sqlitepclraw.bundle_e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\Worawit\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\Worawit\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\Worawit\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.4\\sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",
+    "C:\\Users\\Worawit\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

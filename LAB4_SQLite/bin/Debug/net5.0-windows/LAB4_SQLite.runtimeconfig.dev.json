@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Worawit\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Worawit\\.nuget\\packages"
+    ]
+  }
+}
